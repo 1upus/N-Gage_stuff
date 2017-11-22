@@ -1,0 +1,373 @@
+Not implemented!
+Press START
+Continue
+English UK
+English US
+French
+Italian
+German
+Spanish
+Start
+Options
+N-Gage™ Arena
+High Scores
+Multiplayer
+Quit
+New Game
+Load Game
+Easy
+Normal
+Hard
+Auto weapon switch
+Contrast override
+SFX Volume
+Music Volume
+Screen settings
+Crosshair type
+Controls
+Credits
+Mute in Phone Call
+Controller Type
+Audio & Video
+Chapter 1
+Chapter 2
+Chapter 3
+Chapter 4
+Chapter 5
+Chapter 6
+Chapter 7
+Chapter 8
+DM1
+DM2
+DM3
+DM4
+God mode
+Infinite Ammo
+View
+Send Scores
+Clear Scores
+Game Total
+Empty Slot
+Host Game
+Join Game
+Launch
+Launching
+The Game… Select Host
+Join
+Connecting… Waiting For The
+Game To Start… BlueTooth Is Off, Switch On?
+Yes
+No
+Ok
+Cancel
+Select Teams
+Team
+Forward
+Backward
+Strafe Left
+Strafe Right
+Left
+Right
+Look Up
+Look Down
+Next Weapon
+Prev Weapon
+Jump
+Fire
+Ghost Vision
+Reload
+Sensitivity
+Invert Y-Axis
+Configuration
+User Defined
+A
+B
+C
+Controller Key L
+Controller Key R
+Controller Key U
+Controller Key D
+Controller Key
+1
+2
+3
+4
+5
+6
+7
+8
+9
+*
+#
+Empty
+Waiting
+User Defined configuration incorrect. There are keys missing or actions mapped to multiple keys. Select will revert to default. Back will continue editing.
+User Defined configuration incorrect. There are keys missing or actions mapped to multiple keys. Select will revert to previous User Defined layout & Back will continue editing.
+MISSION OBJECTIVES UPDATED
+VANESSA HAS DIED. MISSION FAILED
+It all began with a letter from my sister. My brilliant crazy sister.We hadn't seen or talked in years but as soon as I read it I could tell something wasn't right. Vanessa sounded strange. The letter seemed rushed and leapt from one idea to the next. She was in Seven River City, still researching, still teaching and still trying to find her 'lost city'.Maqabir she called it. I called it mad.
+"I'm really close Jacob. I think I've found it, found Maqabir! Come to Seven River. Come and witness a miracle." I put the letter aside and tried to ignore it. I wished I'd never laid eyes on it. Maqabir was a myth, it didn't exist for me… for anyone. Just Vanessa.
+And then it happened.
+Seven River City
+A storm
+lights
+and something else… For three days, then nothing. A city shattered and silent.
+So now I am here.
+To witness a miracle.
+To find a sister.
+To undo the damage.
+I have crawled and climbed my way through collapsed subway tunnels to get here. The streets are in ruins and the city feels empty, lifeless. Somewhere in here is my sister. I must maintain hope – she is alive, she will know what has happened. Her apartment is close, I will begin my search there...
+"What the…what is that?"† 
+"Vanessa's apartment, found it."† She isn't here... The place is a mess, books and equipment everywhere. A strange smell fills the air too. I’ve never smelled anything like it, as if the earth itself is burning… I have found a pair of glasses. Goggles of some sort. There is a note with them:"WHOEVER FINDS THESE GOGGLES, TAKE THEM! Wraiths exist between this world and Maqabir, they are hidden and will attack invisibly. Use the goggles to reveal them and stay alive. – Vanessa Ward."Use 'Ghost Vision' key to turn on/off goggles. Goggles will reveal invisible enemies and structures. Use in low light areas. Self-powered, will recharge when power is depleted.
+Blood. Human blood. Vanessa is in trouble.
+The city’s inner precincts lie on the other side of the canal. I must find a way to cross it.
+FIND AND EXPLORE VANESSA’S APARTMENT
+FOLLOW TRAIL
+LOCATE ROUTE INTO INNER CITY
+I have followed the trail over the canal and into the city’s main island. The burning smell is all around now. I am finding it difficult to breathe. Ahead lies the city’s heart, the ‘Cathedral District’ and the City Square. Vanessa is in there somewhere… Screams! I can hear survivors! But I can’t reach them, the path ahead is blocked! There's got to be another way through… FOLLOW TRAIL
+FIND SURVIVORS
+OPEN FLOODGATE
+I have lost the trail but at least I am out of the sewers. I am in the Cathedral District now. The cries of the survivors are much closer they must be here somewhere. I've got to find them before the creatures do.
+"What’s that?"† "Perhaps the goggles…"† "…too late…"† "eh… the roof?"†
+"Vanessa?"† FIND SURVIVORS
+GET TO THE ROOF
+"Vanessa! Hang on!"† "Jacob?"‡| "Stay there!"†‡| "Jacob, help me!"†‡ "Vanessa! Are you alright?"†| "Yes, thank you Jacob! There isn’t much time though. My research has been successful Jacob, more successful than I could†‡ imagine. Maqabir exists!"| "Maqabir! That’s not possible…"†‡| "No! It isn’t a myth Jacob. It’s a real city, you are seeing it all around you, or at least you’re starting to.†‡We, found a way to…to summon it."| "We?"†‡|"My research partner, Charles Eliezer and I, we discovered a way to bring Maqabir into our world. But it has all gone wrong Jacob it’s, it’s…"†‡|"A nightmare, I know."†‡|"Where is this Charles Eliezer now? Why aren’t you with him?"| "He’s still in the city, working at the summoning.†‡I left him as soon as I realised the mistake we were making. I got to my apartment before I was captured by the creatures. I just managed to fight free."|"These creatures, they’re from Maqabir?"†‡| "Yes, and there are more of them with every hour.†‡We have to do something to stop the summoning. Did you go to my apartment? Did you find the goggles?"| "Yes."†‡| "That's excellent news, you’ll need them. Take this radio too, so we can stay in touch."†‡| "Where am I going?"†‡| "The city square. Get back down to the street, I'll tell you more when you get there."†‡| "But…"†‡|"I’m injured but I'll be alright. I’ll find a safe spot to hold out. Just go!"†‡ FIND VANESSA
+PROTECT VANESSA
+GET TO THE STREET
+"Ok, which way?"†|"Head to the city square, there is a large concentration of Maqabir creatures there."†‡| "Great."†‡| "I know, sorry. It’s an entry point for the creatures though. We need to shut it down. It’s very close to the Summoning Machine Charles†‡| and I designed."| "The Summoning Machine? That’s new."†‡|"We’ll deal with that soon. First things first, to the city square."†‡ "I’m here."†|"Ok. There should be four groups of dark pillars in the area. They’re Maqabir summoning gates, that’s how the creatures are crossing over.†‡ They are linked to the Summoning Machine. You need to find a way to deactivate them."|"How do I do that?"†‡|"Look for runes or patterns on them, see if you can do something with those."†‡|"There are a lot of creatures here Vanessa, it’s going to be tough."†‡| "Be careful and good luck."†‡ "Jacob, look for a newly opened entrance near the pillars. There should be a tunnel running between the †‡Summoning Machine and the pillars. Find it and you will be able to reach the machine."
+GET TO CITY SQUARE
+DEACTIVATE PILLARS
+DEFEAT PSI STALKER
+LOCATE ENTRANCE TO SUMMONING MACHINE
+ "I don’t see a ‘Summoning Machine’ here Vanessa, just a lot of water."†|"The Summoning Machine is a little way ahead. The water eventually flows into the machine itself."†‡| "So what does the machine do?"†‡| "It’s one of three key elements in the summoning process. †‡The first is the book used to start the summoning, Charles has that. The second is the machine." | "And the third?"†‡| "It’s a Talisman but  ah… I don’t think we’ll have to worry about that one. Taking out the first two should do."†‡| "Ok, I’ll let you know when I’m at the machine."†‡ "I can hear the machine, it must be massive!"†|"It’s huge. Be careful in there, lots of moving parts to trap you."†‡| "Ok, so I’m destroying it?" †‡| "Yes, but you need to do it carefully. There are four key points that must be disabled.†‡You will be able to identify them using the Ghost Vision goggles. The points sit between this world and Maqabir and will show up a strange colour when the goggles are on. Take them out and keep moving!"| "Right."†‡  "One more, Jacob."†  "This place is coming apart!"†|"Get out of there!"†‡| "I’m looking for an exit now."†‡ "Found it… hang on something’s wrong. I feel like I’m falling."†| "What? What’s happening?"†‡| "I can’t get out! I’m trapped! I’m being pushed, is that…what is that? Maqabir?"†‡| "Jacob! No! Find the Talisman, the third part of the summoning, it will get you out…"†‡ LOCATE & ENTER MACHINE
+DESTROY MACHINE
+ESCAPE
+"Vanessa?"†"Damn! Welcome to Maqabir Jacob..."|"What did she say? "Find the Talisman"? I don’t even know what it looks like! I just hope it will get me out of here..."|"Better move!"
+"Hmm, a key of some sort?"† "That’s got to be the Talisman. Now to get it."† "Thank you Vanessa!"†
+FIND & OBTAIN TALISMAN
+ESCAPE
+"What? It doesn’t look any different, I’m still here!"†|"Jacob? Jacob you're alive!"†‡| "Ness? You can hear me? But I’m still stuck in Maqabir!"†‡|"No, no you're not!You’re home, you're in the heart of Seven River, it just looks like Maqabir." †‡|"Where’s Eliezer then?"†‡|"I don’t know, he should be somewhere in there.†‡ Don’t worry though, just try to get out."|"Ok."†‡ "Ah, I think I just found Eliezer’s place. And Eliezer."†| "Charles is there?"†‡| "Yes, but he’s not going tell us much. He’s dead."†‡| "That must be why they tried to capture me, so the summoning could continue! Where are you though?"†‡| "It’s strange, I’m standing in a room in Eliezer’s home but the Maqabir structures are all around. It looks like the whole mansion has been swallowed by the alien city."†‡|"Try to find the summoning book. Destroy it and get out of there. You’re really close Jacob. You can end this!"†‡| "Ok, I’ll find it."†‡ "A note written by Eleizer..."† The Prime Entity will be crossing last. I am sure I will be able to control it but I have taken precautions just in case. The entity’s limbs are most vulnerable, should the need arise, focusing attention on damaging these first should allow me to subdue it.
+"It’s done! I’ve destroyed it!"†| "Gre…" †‡|"Wait, what was that? I’m not alone Vanessa, got to go."†‡  "Something’s trying to cross over. It’s huge."†|"It must be caught between the two worlds."†‡|"It’s forcing it’s way through. It’s everywhere!"†‡ "Get out of there Jacob, get out!"†‡ ESCAPE
+DESTROY SUMMONING BOOK
+DEFEAT PRIME ENTITY
+"Jacob…"‡|"Jacob are you alright?"| "Yes I'm here, I'm OK. I think it's over..."†‡|"It is. Maqabir, it's fading! It's leaving!"‡†|"I can't see any creatures either. We did it."†‡| "Yes…yes I guess we did..."†‡ "It will always be there though, won't it? Maqabir I mean." †| "It still exists out there somewhere. We didn't destroy it, just stopped it from destroying us. I've had enough of it now though Jacob.†‡ I don't want to think about it any more." | "Hmm, I don't know if we're going to get a choice about that." †‡| "...I know..." †‡| "Well…we should think about getting out of here. Ready to leave?" †‡|"Jacob?" †‡|"Yes?" †‡|"What's going to happen now? When we get out I mean. This was my fault. I started the summoning, this was my..."†‡|"You'll be alright, we'll be alright. Besides, nothing could be worse than what we've just gone through!" †‡|"Don't joke." †‡|"Ok. One step at a time though yes? Now, where can I meet you?" †‡|"I'll explain as you walk." †‡| "Now, doesn't that sound familiar!"†‡ And so Vanessa and I found our way out of the city. We didn't get to tell our story really. Only to the few people, government people, that met us. I don't know what they made of it. I don't know what they've got planned for Seven River City either. For now I'm just trying to lay low back at home and make sense of what's happened.
+Vanessa seems to have moved on. No mention of Maqabir at all really. We talk more than we used to now. She's still researching, nothing to do with Maqabir though. One day when I'm ready I'll ask her how she did it. But not yet. It’s too soon.
+Besides, I still haven't told her about the talisman… it'd only encourage her.
+Acquired
+Ammo
+Picked Up Pistol
+Picked Up Pistol Ammo
+Picked Up Shotgun
+Picked Up Shotgun Ammo
+Picked Up Dual Pistol
+Picked Up Dual Pistol Ammo
+Picked Up Machine Gun
+Picked Up Machine Gun Ammo
+Picked Up Gatling Gun
+Picked Up Gatling Gun Ammo
+Picked Up Pulse Gun
+Picked Up Sniper Rifle
+Picked Up Sniper Rifle Ammo
+Picked Up Grenade Launcher
+Picked Up Rocket Ammo
+Picked Up Grenade Ammo
+Picked Up Ghost Vision Goggles
+Mission Failed
+Restarting
+Maximum
+Ammo Full
+Select
+Back
+Main Menu
+Start Menu
+Mission Select
+Difficulty
+Pause Game
+Save Game
+Objectives
+Game Over
+Level Complete
+Style A
+Style B
+Style C
+User Defined
+Level High Score
+Statistics
+Cheat Menu
+Loading
+Audio Video
+Controller Type
+Game High Score
+Seven River City
+The Trail
+Cathedral District
+Roof Tops
+Maqabir Pillars
+Summoning Machine
+Maqabir
+Eliezer's Mansion
+You Have Died. Press Fire Button.
+SCORE
+Your Time:
+Par Time:
+Accuracy:
+TOTAL SCORE:
+YOU ARE A HIGH SCORER!
+ENTER INITIALS
+Picked Up Flak Jacket
+Space
+Delete
+Done
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+SERVER SETUP
+GAME TYPE:
+DEATHMATCH
+TEAM DEATHMATCH
+SURVIVOR
+ESCAPE
+MAP:
+SET LIMIT:
+UNLIMITED
+5 MINUTES
+10 MINUTES
+20 MINUTES
+FIRST TO 10
+FIRST TO 20
+FIRST TO 30
+WAITING FOR PLAYERS… QUIT GAME?
+OVERWRITE SAVE GAME?
+RESET HIGH SCORES?
+Epilogue
+Objectives incomplete
+Pulse Gun
+Chapter Complete
+Player
+has died
+has killed
+has gibbed
+K
+F
+D
+Connect to Game Services?
+Red
+Green
+Blue
+Yellow
+And so Vanessa and I found our way out of the city. Somehow we came through ok. As we expected the authorities were there to meet us. We told them our story but I don't know what they made of it. I think they'd prefer to believe we were victims ourselves, that our story was the result, yet again, of people scared by storms and things that go bump in the night. The truth for them needed to be simplier and a lot less upsetting. We were released quickly, given some numbers to call if we needed to talk and then taken home. They didn't know what to do with us. They certainly don't know what to do with Seven River City. 
+It's been six months now and things are starting to return to normal for me. I'm going to do some more travelling, see some nice big modern cities and get Seven River firmly out of my mind. Vanessa's another story though. At first our shared experience brought us together. We talked a lot about what happened and about what might happen in the future. Pretty soon though she started to withdraw and I began to see less and less of her. Two months have passed now without contact. I've tried to find her but she's gone. I’m almost certain she's back researching, I knew she wouldn’t be able to let go. Even after everything that has happened Maqabir is still her life, she can’t give up on it. 
+So I’ll just wait, because just as I’m sure she’s still chasing Maqabir I’m also sure she won’t be gone forever. Especially not when she remembers that I still have it, that I’ve never let it out of my sight. She’ll be sure to want it.
+The only thing I brought back with me from that place… Torus GamesManaging DirectorBill McIntoshProducerMick Solomons|Game DesignerHarry RavenswoodLead ProgrammerStuart Cameron|Content ProgrammersMichael AbbottRichard AuBrian Post|Engine and ToolsMatthew EllisonDavid GauntChris HaytonMichael Smith|Lead ArtistDamien HolderArt DirectorMarcus MestrovArtistsIvan Kenny-SumigaStuart Rogers|Level DesignerVan RickettsAdditional Level DesignDavid BiggsAaron Hoffman|Sound and MusicJames LangfordAnimationSubZero ProductionsDavid BiggsStuart CampbellCameron CrichtonAdrian Millington|Test LeadDavid McIntoshTestersJonathon BinkDavid L. McIntoshDale PearceJeremy Del Rossi|Special ThanksThe Op-Shadow TeamTy CareyJoe TaborSarah PenhallMaya GrahamMegan DavisKate DawsonSarah KewmingAmy WardenCindy Wandel|NOKIA Co., Ltd.Senior Vice President, Games Business UnitIlkka Raiskinen Director, Game PublishingPasi Polonen|Games ProducerShinya YamadaBusiness DeveloperPertti Pietarinen|Marketing ManagerKeiko YamamotoAapo Bovellan  Public RelationsStathonikos Damian|Testing ManagerTimo Virtapuro|Support StaffMotohiro EndoYu HeHiroaki Domon|Special ThanksJouni Hytonen Scott FoeJon BruceMarja Pihamaa|Damian StathonikosMinna SainioHelena Hattinen ISolja JussiTakeyuki Kawashima
+DEMONSTRATION
+Login
+Username:
+Password:
+Remember Me
+Retry
+High Scores
+World Rankings
+Send High Scores
+Sending… Register New Account
+Please enter your desired username and password.
+First Name:
+Last Name:
+Country:
+Email:
+Birth date:
+Password question:
+Password answer:
+Try again?
+N-Gage™ Arena
+Game Services
+You are about to connect to N-Gage™ Arena - do you wish to continue?
+Connecting…Please wait.
+Registering new account… Please wait.
+Registration failed. A user may already exist with that name.
+Registration failed.
+Registration successful.
+Login unsuccessful. To retrieve a forgotten password or login as a different user on this device, visit www.arena.n-gage.com.
+Login successful.
+Send complete.
+Downloading… Language
+Restart
+Are you sure you wish to restart?
+Move forward
+Turn left
+Turn right
+Move backward
+Ghost Vision
+Look down
+Look up
+Strafe left
+Fire
+Strafe right
+Jump
+Next Weapon
+Prev Weapon
+Objectives
+Reload
+Turn / Strafe Left
+Turn / Strafe Right
+Hold strafe
+BlueTooth
+BlueTooth Enabled
+BlueTooth Name
+Chapter High Score
+Chapter Select
+DOB
+DD
+MM
+YYYY
+Please complete all fields.
+Press Any Key To Start
+Delete All Saved Data
+This will data all saved data on C:\ drive. Do you wish to continue?
+Deleting… Delete Saved Games
+This will delete your saved games on C:\ drive. Do you wish to continue?
+This will delete the selected saved game. Do you wish to continue?
+Delete Saved Options
+This will delete your saved options on C:\ drive. Do you wish to continue?
+Game deck memory full.
+Save failed.
+Are you sure you wish to overwrite the existing saved game?
+Data corrupted.
+Out of memory.
+Message received.
+BlueTooth connection busy.
+Request to join the game has been rejected.
+Request to join the game has been rejected due to too many players.
+has quit the game.
+has paused the game. Waiting for the game to resume.
+Game terminated by the host.
+Game cancelled due to lack of players.
+Connection lost.
+Game cancelled due to disconnection.
+is trying to connect.
+Accept
+Reject
+I agree to all of the N-Gage™ Arena Service Usage terms, the Privacy Policy and the N-Gage.com site terms, all found and reviewed by me at <http://n-gage.com/support>.
+Username/password entered is not valid.  Please try again.
