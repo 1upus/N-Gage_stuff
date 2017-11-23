@@ -1,6 +1,10 @@
-Packtool for N-Gage Ashen by HoRRoR
+Packtool for N-Gage by HoRRoR
 
+Games:
+Ashen
+Operation Shadow
 --
+PMAN Torus Games PakFile.dat
 
 4 байта - сигнатура "PMAN"
 4 байта - количество файлов
