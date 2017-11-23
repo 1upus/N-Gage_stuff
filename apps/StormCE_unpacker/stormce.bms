@@ -1,0 +1,14 @@
+# StormCE
+# script for QuickBMS http://quickbms.aluigi.org
+
+idstring "StormCE"
+goto 0x18
+for
+    getdstring NAME 0x30
+    if NAME == ""
+        break
+    endif
+    get SIZE long
+    get OFFSET long
+    log NAME OFFSET SIZE
+next

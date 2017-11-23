@@ -1,0 +1,46 @@
+idstring "DTRZ"
+comtype deflate
+get fileSize asize
+
+get FILES   short
+get FOLDERS short
+get UNKNOWN byte
+
+for i = 0 < FILES
+get NAME string
+putarray 0 i NAME
+next i
+
+putarray 1 0 ""
+for i = 1 < FOLDERS
+get NAME string
+string NAME += "/"
+putarray 1 i NAME
+next i
+
+for i = 0 < FILES
+get folderID short
+get fileID   short
+get dummy    short
+
+getarray fileName   0 fileID
+getarray folderName 1 folderID
+
+string folderName += fileName
+putarray 2 i folderName
+next i
+
+get dummy long
+
+for i = 0 < FILES
+get offset long
+get size   long
+get size   long
+get headerSize long
+
+getarray name 2 i
+
+xmath offset "offset + headerSize + 2"
+xmath zsize "fileSize - offset"
+clog name offset zsize size
+next i
