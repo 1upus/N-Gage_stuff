@@ -1,0 +1,338 @@
+#0:Welcome to my home.
+#1:Use the directional buttons to go into the music room.
+#2:OK. Let's do some tumbling.
+#3:Press the jump button.
+#4:Now press it again and press one of the directions and I'll jump that way.
+#5:Ah, the main hall.
+#6:Sorry about the crates - I'm having some things put into storage and the delivery men haven't been yet.
+#7:Nice.
+#8:Let's go for a swim.
+#9:Right. Now I'd better take off these wet clothes.
+#10:The jump button and the directions move me around underwater.
+#11:Run up to a crate, and while still pressing forwards press action, and I'll vault up onto it.
+#12:This used to be the ballroom, but I've converted it into my own personal gym.
+#13:What do you think? Well, let's do some exercises.
+#14:I don't actually run everywhere. When I want to be careful, I walk.
+#15:Hold down the walk button, and walk to the white line.
+#16:With the walk button down, I won't fall off even if you try to make me.
+#17:Go on, try it.
+#18:If you want look around, press and hold the look button.
+#19:Then press in the direction you want to look.
+#20:If a jump is too far for me, I can grab the ledge and save myself from a nasty fall.
+#21:Walk to the edge with the white line until I won't go any further.
+#22:Then press jump immediately followed by forwards then while I'm in the air press and hold the action button.
+#23:Press forward and I'll climb up.
+#24:If I do a running jump, I can make a jump like that, no problem.
+#25:Walk to the edge with the white line until I stop.
+#26:Then let go of walk and tap backwards to give me a run up.
+#27:Press forward, and almost immediately press and hold the jump button.
+#28:I won't actually jump until the last minute.
+#29:Right. This is a really big one.
+#30:So do a running jump exactly as before except while I'm in the air...
+#31:...press and hold the action button to make me grab the ledge.
+#32:Try to vault up here. Press forwards and hold action.
+#33:I can't climb up because the gap is too small.
+#34:But press right and I'll shimmy sideways until there is room, then press forward.
+#35:Great! If there is a long drop and I don't want to hurt myself jumping off I can let myself down carefully.
+#36:Tap backwards, and I'll jump off backwards. Immediately press and hold the action button, and I'll grab the ledge on the way down.
+#37:Then let go.
+#38:Ah! Air!
+#39:Just use forward and left and right to manoeuvre around on the surface.
+#40:Press jump to dive down for another swim about.
+#41:Or go to the edge and press action to climb out.
+#42:Say cheese!
+#43:Ain't nothin' personal.
+#44:I still git a pain in my brain from ye.
+#45:An' it's tellin' me funny ideas now...
+#46:...Like to shoot you to hell!
+#47:You can't bump off me and my brood so easy, Lara.
+#48:A leetle late for the prize giving - non?
+#49:Still, it is the taking-part wheech counts.
+#50:You firin' at me?
+#51:You firin' at me, huh?
+#52:Ain't nobody else, so you must be firin' at me!
+#54:Back again?
+#55:And you - for a grand re-opening I assume.
+#56:Evolution's in a rut - natural selection at an all time low...
+#57:shipping out fresh meat will incite territorial rages again
+#58: - will strengthen and advance us...
+#59:Even create new breeds.
+#60:Kind of like evolution on steroids then.
+#61:A kick in the pants...those runts Qualopec and Tihocan had no idea
+#62: - the cataclysm of Atlantis struck a race of langouring wimps...
+#63:plummeted them to the very basics of survival again...
+#64:It shouldn't happen like that.
+#65:Or like this.
+#66:Hatching commences in 20 seconds.
+#67:Too late for abortions now!
+#68:Not without the heart of the operation!
+#69:Noooo!
+#70:TEN
+#71:FIVE...
+#72:4...3...2...
+#73:ONE...
+#80:Well, you have my total attention now...
+#81:I'm not quite sure if I've got yours though
+#82:...hello
+#83:I'll heel an' hide ye to a barn door yit
+#84:Of course
+#85:Ye and that drivelin' piece of the Scion.
+#86:Ye want to keep it so bad, I'll harness it right up y...
+#87:Wait... we're talking about the artifact here?
+#88:Damn straight we are ... right up y...
+#89:Hold on - I'm sorry ...
+#90:this piece you say - where's the rest?
+#91:Ms Natla put Pierre Dupont on that trail.
+#92:And where is that?
+#93:Hah. Ye ain't fast enough fer him.
+#94:So you think all this talking is just holding me up then?
+#95:I don't know where his little jackrabbit-frog- -legs are runnin' him to...
+#96:You'll have to ask Ms. Natla
+#98:Thank you. I will ...
+#101:Here lies Tihocan
+#102:...one of the two just rulers of Atlantis...
+#103:Who even after the curse of the continent...
+#104:...had tried to keep rule here in these barren other-lands...
+#105:He died without child and his knowledge has no heritage...
+#106:Look over us kindly, Tihocan.
+#107:You found a secret!
+#1000:Los Alamos, New Mexico:
+Empty, arid desert is rocked by a nuclear explosion. A huge white mushroom cloud breaks on the horizon, with a delayed BOOM echoing across the land.
+From the blast, a large black circular disc is thrown into the air and lands heavily on the ground. It is a vast metal lid.
+Deep within the blast crater, a ring of red lights flashes to the sound of unlocking metal. A metal door slides open to reveal a frosted glass cylinder. The murky figure of a body is encased within.
+Ancient evil awakes...
+#1001:Lara's home. Explore and practise running and jumping moves.
+#1002:Lara Croft has journeyed to the farthest reaches of the vast Andean mountain range in Peru.
+Commissioned by Jacqueline Natla, CEO of Natla Technologies, and the Texan Larsen to recover the Scion, an age-old artifact of mystical powers, Lara traverses the bleak snowy waste of the Peruvian mountains. Her destination: the untouched tomb of Qualopec where the Scion is buried.
+Reaching the tomb's entrance, Lara is confronted with a vast rock face, adorned with large, raised Incan carvings. Discovering the secret lock that opens the tomb door, Lara presses on into the dark cave...
+#1003:Natla Technologies HQ, Seattle:
+Intent on discovering the motivation behind their treachery, Lara pays a covert late night visit to Natla's offices. There, discovering an old prayer book, one passage piques her interest:
+''Relocated now to St Francis' folly, new temptations torment me. Rumour amongst my fellow brothers is that entombed beneath our monastery is the body of Tihocan, one of the legendary rulers of the lost continent of Atlantis.
+And that with him lies his piece of the Atlantean Scion - a pendant divided and shared between the three rulers - which curbs tremendous powers. Powers beyond the creator himself.
+My toes sweat at such possibilities lying so close to my mortal self. Each night I beat myself rid of these fantasies but it is indeed a test.'' - Brother Herbert, 1573.
+In the monk's tome, a hand-drawn picture of the Scion in its entirety reveals that her piece is part of this artifact.
+Her next destination revealed, Lara travels to the Monastery wherein Tihocan's Tomb lies. At the entrance to the Monastery, she sees evidence that Natla's henchman Pierre Dupont has gone before.
+#1004:Piecing together the two fragments of the artifact, it begins to glow with a weak green light. Lara peers into the Scion as a bright white light fills her vision...
+...A vast pyramid, a shaft of light soaring from its tip into the sky. Inside, the Scion, its three pieces fitted as a whole, slotted into a flat rock, strong green energy rays emanating from it...
+...One hand clenched on the activated Scion, violent screams and roars in the background, an evil looking eye flicking open...
+...A figure strapped as to a crucifix outside the pyramid, two others standing over it...
+...A piece of the Scion ripped from a chain around someone's neck and flung into the air and hurtling across an ocean...
+...a burning meteor plummets from the sky, sounds of death as it explodes into the Earth and a great tidal wave engulfs a city, people drowning...
+...as the Scion rushes silently over canyons and desert towards a long straight canyon with a large rock facade at the far end. It disappears into an entrance in the rock face.
+...Lara's vision returns, the Scion in her hand now inanimate. Her final destination is clear: Egypt.
+#1005:Exiting the tomb onto a cliff-side precipice, Lara is ambushed by Natla and her henchmen. Held at gunpoint, Lara is forced to hand over the Scion, but makes her move as her captors are engrossed by the now fully assembled artifact.
+Diving into a deep canyon river, with machine gun bullets raining over her, Lara makes her dramatic escape. Emerging from the river, she sees Natla and crew drive off along a narrow road carved into the cliff side.
+Reaching her motorcycle, Lara sets off in hot pursuit through the canyon, hitting the road where Natla's vehicles disappeared earlier.
+Making up for lost time, Lara reaches the coast, where she sees Natla's vehicles parked near a large yacht. As the yacht pulls out to sea, Lara guns her engine and makes a suicidal approach to the coastline, diving from the plunging bike into the sea.
+Diving under the yacht, Lara manages to climb up the anchor chain, and disappear below decks, where she settles in for some well needed sleep as the boat sails off.
+Awakening to the sound of conversation, Lara hears Natla and crew depart from the yacht by speedboat.
+Making her way above deck, Lara sees that the yacht is anchored near a large island, capped by a volcanic mountain. Swimming to shore, Lara spies the entrance to a large submerged cave at the island's cliff edge. As she disappears into the cave's mouth, her progress is noted from the yacht, and a radio call is made to shore...
+#1006:Atlantean Times:
+Natla's face is hardened with disbelief, as we see that she is strapped, arms splayed to two pillars in an open temple in the desert. Standing on the platform before Natla are two men - dressed as she is in ceremonial garb. They are Qualopec and Tihocan.
+Natla has been captured by her fellow priests for her crimes against Atlantis, abusing the creation powers of the Scion for her own nefarious designs.
+She must now face the consequences. Tihocan and Qualopec condemn her to eternal unrest, entombed within a frozen cylinder, buried deep within the Earth. Her tomb is lowered into the ground, leaving only a heavy lid to be obliterated by the sands of time.
+A blank desert horizon stretches out before Qualopec and Tihocan, their harsh justice served.
+#1008:Lara just manages to escape from the exploding volcano, diving to sea and reaching the yacht just as the island erupts, debris falling over the craft.
+As Lara speeds out to sea, a tremendous explosion obliterates the island. The Croft Manor -and a steamy shower- beckons.
+#1009:--
+N-Gage Version by Ideaworks3D
+ideaworks3d.com
+--
+Tom Beaumont
+Robert Bjarnason
+Aaron Dover
+Thor Gunnarsson
+Tom Lynn
+Will Osborn
+Brian Pearson
+Andy Perkins
+Dave Poston
+Adrian Sack
+Matthew Selby
+	--	Special Thanks	--
+Peter van Sebille
+Amanda O'Hanlon
+	--	QA Technicians	--
+Francoise Le Marchand
+Sebastian MacKenzie-Wilson
+Roly Porter
+Patrick Butler-Madden
+#1010:--
+Original Game
+by Core Design
+--
+
+--Lead Programmer--	Paul Douglas
+--Lead Graphic Artist--	Toby Gard
+--Programmers--	Jason Gosling	Gavin Rummery
+--Graphic Artists--	Heather Gibson	Neal Boyd
+--Additional Programming--	Derek Leigh-Gilchrist	Andrew Howe	Mansoor Nusrat
+--Additional Artwork--	Lee Pullen	Peter Barnard	Stuart Atkinson	Dave Pate
+--Music--	Nathan McCree
+--Sound Effects--	Martin Iveson
+--Script--	Vicky Arnold
+--Original Concept--	Toby Gard
+--Executive Producer--	Jeremy H. Smith
+#1011:--
+Eidos
+--
+Producer	--	Luke Valentine
+Executive Producer	--	Ed Bainbridge
+Product Manager	--	Ric Williams
+PR Manager	--	Steve Starvis
+Group Localisation Manager	--	Flavia Timiani
+Localisation Manager	--	Alex Bush
+Creative Services	--	Andy Cockell	-	Philippa Pratley
+QA Manager	--	Chris Rowley
+Assistant QA Manager	--	Ghulam Khan
+Lead Tester	--	James 'spaff' Spafford
+QA Technicians	--	Jacob Wrightman	-	Paul 'Spuntino' Cooper	-	Joe 'Chesters' Raffman	-	Nick 'Stop 'n' search' Benfield	-	Ben Wrightman	-	Richard 'Hat' Startup	-	Ian Harrison	-	Chris Bewick	-	James McMichen	-	Bob Watson	-	Laurie May
+Localisation QA Supervisor	--	Marco Vernetti
+Localisation QA Technicians	--
+Italian-	Monica Dalla Valle
+French-	Jacques Galon
+German-	Pedro Geppert
+Spanish-	Daniel Castro
+Mastering and Compatibility Coordinator	--	Jason Walker
+Mastering Technician	--	Phil Spencer
+Special Thanks	--	Simon Protheroe	Mark Stanger	Paul Sheppard	Lee Briggs	Louise Fisher	Babel Media Ltd.	Bowne Global Ltd.	Dave Rose	Rob Dyer	John Spinale
+#1012:
+
+
+
+
+
+
+
+
+
+#2000:INVENTORY
+#2001:OPTIONS
+#2002:ITEMS
+#2003:GAME OVER
+#2004:Load Game
+#2005:Save Game
+#2006:Start Game
+#2007:Restart Level
+#2008:Exit to Title
+#2009:Exit Game
+#2010:Select Level
+#2011:Select Level
+#2012:Save Game
+#2013:Brightness
+#2014:Button Brightness
+#2015:Toggle Running: ON
+#2016:Toggle Running: OFF
+#2017:Toggle Walking: ON
+#2018:Toggle Walking: OFF
+#2019:Flip Screen: Right
+#2020:Flip Screen: Left
+#2021:Control Config: A
+#2022:Control Config: B
+#2023:Control Config: C
+#2024:Lara's Home
+#2025:Caves
+#2026:City of Vilcabamba
+#2027:Lost Valley
+#2028:Tomb of Qualopec
+#2029:St. Francis' Folly
+#2030:Colosseum
+#2031:Palace Midas
+#2032:The Cistern
+#2033:Tomb of Tihocan
+#2034:City of Khamoon
+#2035:Obelisk of Khamoon
+#2036:Sanctuary of the Scion
+#2037:Natla's Mines
+#2038:Atlantis
+#2039:The Great Pyramid
+#2040:Cut Scene 1
+#2041:Cut Scene 2
+#2042:Cut Scene 3
+#2043:Cut Scene 4
+#2044:Title
+#2045:Current Position
+#2046:Compass
+#2047:Pistols
+#2048:Shotgun
+#2049:Magnums
+#2050:Uzis
+#2051:Pistol Clips
+#2052:Shotgun Shells
+#2053:Magnum Clips
+#2054:Uzi Clips
+#2055:Grenade
+#2056:Small Medi Pack
+#2057:Large Medi Pack
+#2058:Lead Bar
+#2059:Pickup
+#2060:Scion
+#2061:Puzzle
+#2062:Key
+#2063:Game
+#2064:Screen Adjust
+#2065:Select
+#2066:Go Back
+#2067:Continue
+#2068:Paused
+#2069:Press 0 to play
+#2070:
+#2071:Sound
+#2072:Controls
+#2073:Gamma
+#2074:Lara's Home
+#2077:Gold Idol
+#2078:Machine Cog
+#2082:Gold Bar
+#2086:Eye of Horus
+#2087:Ankh
+#2088:Fuse
+#2102:Scarab
+#2103:Scarab
+#2104:Pyramid Key
+#2118:Seal of Anubis
+#2134:Ankh
+#2141:Silver Key
+#2144:Neptune Key
+#2145:Rusty Key
+#2147:Gold Key
+#2148:Gold Key
+#2149:Sapphire Key
+#2150:Sapphire Key
+#2151:Gold Key
+#2160:Atlas Key
+#2163:Silver Key
+#2164:Rusty Key
+#2176:Damocles Key
+#2179:Rusty Key
+#2180:Rusty Key
+#2192:Thor Key
+#2203:LOADING
+#2204:TIME TAKEN
+#2205:SECRETS
+#2206:PICKUPS
+#2207:KILLS
+#2208:of
+#2209:The file could not be saved!
+#2210:Try Again?
+#2211:YES
+#2212:NO
+#2213:Save Complete!
+#2214:No save games!
+#2215:None valid
+#2216:Save Game?
+#2217:attempts remaining...
+#2218:This is your final attempt...
+#2219:Click to begin race...
+#2220:GO !
+#2221:Congratulations! 
+#2222:You won by
+#2223:You lost by
+#2224:Your time:
+#2225:Their time:
+#2226:Penalty
+#2227:Remaining:
+#2228:Last attempt!
+#2229: secs
+#2230:Unlucky, you lost...
+#X
