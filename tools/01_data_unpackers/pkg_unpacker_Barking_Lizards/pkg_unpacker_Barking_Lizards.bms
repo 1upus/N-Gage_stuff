@@ -1,0 +1,63 @@
+# .pkg unpacker for Barking Lizards n-gage games
+#
+# script for QuickBMS http://quickbms.aluigi.org
+# author:   aluigi
+# source:   https://zenhax.com/viewtopic.php?f=9&t=7052
+#
+# platform: NNG (Nokia N-Gage)
+# game:     Snakes Subsonic (NG2)
+#           X-Men Legends (NNG)
+#           X-Men Legends II (NNG)
+# dev:      Barking Lizards
+# publ:     Nokia/Activision
+# files:    XXXX.pkg
+# repo:     https://github.com/1upus/N-Gage_stuff
+
+findloc BASE_OFF binary "pkg\0\0\0\0\0"
+goto BASE_OFF
+
+comtype gzip
+idstring "pkg\0\0\0\0\0"
+get FILES long
+get VER long    # 1
+get DATA_SIZE long
+get DUMMY long
+get DUMMY long
+get DUMMY long
+get DUMMY long  # 3
+getdstring ZERO 12
+
+# some games have names of 0x20 bytes while others have 0x18
+# and both VER(1) and DUMMY(3) are the same
+savepos TMP_OFF
+get NAME string
+strlen NAMESZ NAME
+do
+    get TMP byte
+while TMP == 0
+savepos NAMESZ
+math NAMESZ - 1
+math NAMESZ - TMP_OFF
+if NAMESZ & 2       # 0x22 -> 0x20
+    math NAMESZ y 4
+else                # 0x1c -> 0x18
+    math NAMESZ - 4
+endif
+goto TMP_OFF
+
+for i = 0 < FILES
+    getdstring NAME NAMESZ
+    get DUMMY short # 0 or 1 but not related to compression
+    get ID short
+    get SIZE long
+    get ZSIZE long
+    get OFFSET long
+    get ZERO long   # can't be OFFSET64 because DATA_SIZE is 32bit
+
+    math OFFSET + BASE_OFF
+    if SIZE == ZSIZE
+        log NAME OFFSET SIZE
+    else
+        clog NAME OFFSET ZSIZE SIZE
+    endif
+next i

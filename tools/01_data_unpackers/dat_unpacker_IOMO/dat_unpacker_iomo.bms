@@ -1,0 +1,23 @@
+# games: Snakes 3D for Symbian
+# author: Acewell
+# link: https://zenhax.com/viewtopic.php?t=4385
+# script for QuickBMS http://quickbms.aluigi.org
+
+for i = 0
+   get STRING_SIZE long
+   get STRING_OFFSET long
+   get ZERO long
+   get SIZE long
+   get OFFSET long
+   get ZERO2 long
+   get ZERO3 long
+   get NEXT_FILE long
+   savepos TMP
+   goto STRING_OFFSET
+   get NAME string
+   log NAME OFFSET SIZE
+   if NEXT_FILE == 0
+      break
+   endif
+   goto TMP
+next i   
