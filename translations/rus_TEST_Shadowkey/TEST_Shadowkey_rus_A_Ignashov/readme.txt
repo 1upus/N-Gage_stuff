@@ -1,0 +1,34 @@
+ Русификатор TES Travels: Shadowkey для Nokia N-Gage
+
+ author:   Антон Игнашов
+ source:   Oslik.ru / Prozzak.ru
+
+ platform: NGE (Nokia N-Gage)
+ game:     The Elder Scrolls Travels: Shadowkey
+ dev:      Vir2l Studios
+ publ:     Vir2l Studios
+ files:    6r51.app
+           Alha.txt
+           Credits.txt
+           Options.s
+           Stringtable.eng
+ repo:     https://github.com/1upus/N-Gage_stuff
+
+
+Русификатор TES Travels: Shadowkey от Антона Игнашова.
+Начинался на форумах Oslik.ru / Prozzak.ru
+Выполнен с помощью RSC Tool by Alezz
+
+Качество - высокое (однако, есть, что исправлять)
+
+Для установки русификатора, скопируйте файлы из папки patch в каталог
+игры на карте памяти: e:\system\apps\6R51, соглашаясь на замену.
+
+Русский язык будет установлен вместо английского, однако останется
+возможность выбрать британский-английский в настройках игры, если это
+понадобится.
+В итоге игра получится multi-6:
+Русский / Английский / Испанский / Немецкий / Французский / Итальянский
+
+Я позволил себе немного изменить скрипт меню настроек и код .app файла,
+относящийся к выбору языка. Исключительно, в косметических целях.
