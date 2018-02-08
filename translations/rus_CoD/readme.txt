@@ -1,4 +1,4 @@
- Русификатор Call of Duty для Nokia N-Gage
+ Р СѓСЃРёС„РёРєР°С‚РѕСЂ Call of Duty РґР»СЏ Nokia N-Gage
 
  author:   Bounce1986
  source:   http://www.bounce1986.nm.ru
@@ -11,7 +11,7 @@
  repo:     https://github.com/1upus/N-Gage_stuff
 
 
-Русификатор Call of Duty для Nokia N-Gage от Bounce1986.
+Р СѓСЃРёС„РёРєР°С‚РѕСЂ Call of Duty РґР»СЏ Nokia N-Gage РѕС‚ Bounce1986.
 
-Для установки русификатора, скопируйте файл Stringtable.eng
-в папку игры на карте памяти: e:\system\apps\6R48\
+Р”Р»СЏ СѓСЃС‚Р°РЅРѕРІРєРё СЂСѓСЃРёС„РёРєР°С‚РѕСЂР°, СЃРєРѕРїРёСЂСѓР№С‚Рµ С„Р°Р№Р» Stringtable.eng
+РІ РїР°РїРєСѓ РёРіСЂС‹ РЅР° РєР°СЂС‚Рµ РїР°РјСЏС‚Рё: e:\system\apps\6R48\
