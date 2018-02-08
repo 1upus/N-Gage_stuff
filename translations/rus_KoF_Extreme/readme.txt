@@ -1,4 +1,4 @@
- Русификатор KoF Extreme для Nokia N-Gage
+ Р СѓСЃРёС„РёРєР°С‚РѕСЂ KoF Extreme РґР»СЏ Nokia N-Gage
 
  author:   Dron2
  source:   http://www.bounce1986.nm.ru
@@ -11,7 +11,7 @@
  repo:     https://github.com/1upus/N-Gage_stuff
 
 
-Русификатор текста KoF Extreme для Nokia N-Gage от Dron2.
+Р СѓСЃРёС„РёРєР°С‚РѕСЂ С‚РµРєСЃС‚Р° KoF Extreme РґР»СЏ Nokia N-Gage РѕС‚ Dron2.
 
-Для установки русификатора, скопируйте файл 6R33.R01
-в папку игры на карте памяти: e:\system\apps\6R33\
+Р”Р»СЏ СѓСЃС‚Р°РЅРѕРІРєРё СЂСѓСЃРёС„РёРєР°С‚РѕСЂР°, СЃРєРѕРїРёСЂСѓР№С‚Рµ С„Р°Р№Р» 6R33.R01
+РІ РїР°РїРєСѓ РёРіСЂС‹ РЅР° РєР°СЂС‚Рµ РїР°РјСЏС‚Рё: e:\system\apps\6R33\
