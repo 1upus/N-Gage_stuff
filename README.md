@@ -17,3 +17,5 @@ Useful links:
 - https://github.com/mrRosset/NGEmu/wiki
 - https://github.com/mrRosset/Symbian-Archive
 - https://mega.nz/#F!ml02EAjK!N9AlbkZ9qxCoSKnMxKIQeQ
+- http://ngage.arhn.eu/ - reviews for N-Gage games from 2016-1017
+- http://www.mjonesgraphics.com/index00.html - about TEST: Shadowkey (arts, concept, modelling and tetures)
