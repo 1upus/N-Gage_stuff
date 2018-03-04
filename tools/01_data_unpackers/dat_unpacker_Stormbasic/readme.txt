@@ -13,3 +13,6 @@
  publ:     ...
  files:    XXXX.dat XXXX.pkg
  repo:     https://github.com/1upus/N-Gage_stuff
+
+v1 - script extracts not all data from TechWars.dat
+v2 - fixed un/packing for TechWars.dat

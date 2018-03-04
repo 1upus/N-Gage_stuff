@@ -1,0 +1,17 @@
+# StormCE
+# Stormbasic games: TechWars
+# script by Acewell for QuickBMS http://quickbms.aluigi.org
+
+get FOLDER basename
+idstring "StormCE"
+goto 0x18
+for
+    getdstring NAME 0x14
+    if NAME == ""
+        break
+    endif
+    get SIZE long
+    get OFFSET long
+    string NAME p "%s\%s" FOLDER NAME 
+    log NAME OFFSET SIZE
+next
