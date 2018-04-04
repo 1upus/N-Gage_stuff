@@ -25,4 +25,3 @@ Useful links:
 
 Translations:
 - http://rsp.h14.ru - мой сайт по русификации софта и игр для Symbian с которого всё начиналось
-- http://s1nka.no-ip.org/files/Russian%20Collection/Nokia%20-%20N-Gage%20%5BRUS%5D/ - небольшой архив с русификаторами для N-Gage
