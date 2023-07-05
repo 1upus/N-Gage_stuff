@@ -13,6 +13,7 @@ WANTED:
 - Any useful docs
 
 Useful links:
+- https://discord.gg/GKSZKK5NRX - big N-gage discord server
 - http://n-gage.org/
 - https://github.com/mrRosset/NGEmu/wiki
 - https://github.com/mrRosset/Symbian-Archive
