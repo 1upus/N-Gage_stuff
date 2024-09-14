@@ -19,7 +19,7 @@ Useful links:
 - https://github.com/mrRosset/Symbian-Archive
 - https://mega.nz/#F!ml02EAjK!N9AlbkZ9qxCoSKnMxKIQeQ
 - http://ngage.arhn.eu/ - reviews for N-Gage games from 2016-1017
-- http://www.mjonesgraphics.com/index00.html - about TEST: Shadowkey (arts, concept, modelling and tetures)
+- https://web.archive.org/web/20170324220024fw_/http://www.mjonesgraphics.com/shadow.html - about TEST: Shadowkey (arts, concept, modelling and tetures)
 - http://stevelitchfield.com/s60history.htm
 - http://smartphoneware.com/index.php?cid=legacy&p=s60_2 - all apps and games from smartphoneware is oficially freeware
 - https://mega.nz/#F!Axd0wAjI!K3RPhcW11JFwa3alLNd05A - my Symbian folder on Mega
