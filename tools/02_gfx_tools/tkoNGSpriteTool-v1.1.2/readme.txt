@@ -1,4 +1,3 @@
-<img src="index.jpg">
 tkoNGSpriteTool v1.1.2
 
  TKO spritebank (global.spr) editor
