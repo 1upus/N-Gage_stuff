@@ -1,3 +1,4 @@
+[img src="shg.jpg"]
 tkoNGSpriteTool v1.1.2
 
  TKO spritebank (global.spr) editor
